@@ -1,0 +1,19 @@
+{
+  "name": "separation",
+  "version": "0.0.1",
+  "description": "Work with distances, latitudes, and longitudes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "distance",
+    "latitude",
+    "longitude",
+    "nearby",
+    "haversine",
+    "geometry"
+  ],
+  "author": "Jacob Antony",
+  "license": "ISC"
+}
