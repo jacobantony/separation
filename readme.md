@@ -1,18 +1,20 @@
-#Separation.js
-[![separation](separation "separation")](https://i.imgur.com/rXfouBL.png "separation")
+# Separation.js
+
+
+![separation](https://i.imgur.com/rXfouBL.png)
 
 Calculate the distance between 2 coordinates or check whether 2 coordinates are within a given range. Supports distance and range in miles, meters, and kilometers.
 
 Based on the [Haversine formula][Haversine].
 
-##Features
+## Features
 - Find the distance between 2 coordinates
 - Check whether 2 coordinates are within a given range
 
-##Installation
+## Installation
 `const separation = require('separation');`
 
-##Usage
+## Usage
 This is how you can use it in your code.
     
 	const separation = require('./index');
