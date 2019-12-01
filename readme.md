@@ -12,7 +12,7 @@ Based on the [Haversine formula][Haversine].
 - Check whether 2 coordinates are within a given range
 
 ## Installation
-`const separation = require('separation');`
+`$ npm i separation`
 
 ## Usage
 This is how you can use it in your code.
